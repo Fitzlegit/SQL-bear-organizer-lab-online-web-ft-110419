@@ -7,3 +7,5 @@ CREATE TABLE bears (
   temperament TEXT,
   alive BOOLEAN
 );
+
+INSERT INTO bears (name) VALUES ("Mr. Chocolate");
